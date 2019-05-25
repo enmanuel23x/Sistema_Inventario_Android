@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="unknown.project1_v001">
+    package="unknown.Sistema_Inventario_Android">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -12,11 +12,11 @@
         android:screenOrientation="locked"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ADD.add_usuarios"></activity>
-        <activity android:name=".MAIN_OPTIONS.usuarios" />
-        <activity android:name=".menu_admin" />
-        <activity android:name=".menu" />
-        <activity android:name=".Main">
+        <activity android:name="unknown.Sistema_Inventario_Android.ADD.add_usuarios"
+            android:screenOrientation="locked"></activity>
+        <activity android:name="unknown.Sistema_Inventario_Android.MAIN_OPTIONS.usuarios" android:screenOrientation="locked"/>
+        <activity android:name="unknown.Sistema_Inventario_Android.menu" android:screenOrientation="locked"/>
+        <activity android:name="unknown.Sistema_Inventario_Android.Main" android:screenOrientation="locked">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -24,30 +24,30 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MAIN_OPTIONS.Inventario"
+            android:name="unknown.Sistema_Inventario_Android.MAIN_OPTIONS.Inventario"
             android:screenOrientation="locked" />
         <activity
-            android:name=".ADD.add_inventario"
+            android:name="unknown.Sistema_Inventario_Android.ADD.add_inventario"
             android:screenOrientation="locked" />
         <activity
-            android:name=".MAIN_OPTIONS.Ventas"
+            android:name="unknown.Sistema_Inventario_Android.MAIN_OPTIONS.Ventas"
             android:screenOrientation="locked" />
         <activity
-            android:name=".MAIN_OPTIONS.Clientes"
+            android:name="unknown.Sistema_Inventario_Android.MAIN_OPTIONS.Clientes"
             android:screenOrientation="locked" />
         <activity
-            android:name=".EDIT.edit_inventario"
+            android:name="unknown.Sistema_Inventario_Android.EDIT.edit_inventario"
             android:screenOrientation="locked" />
         <activity
-            android:name=".ADD.add_ventas"
+            android:name="unknown.Sistema_Inventario_Android.ADD.add_ventas"
             android:screenOrientation="locked" />
         <activity
-            android:name=".ADD.add_clientes"
+            android:name="unknown.Sistema_Inventario_Android.ADD.add_clientes"
             android:screenOrientation="locked" />
-        <activity android:name=".EDIT.edit_clientes" />
-        <activity android:name=".MAIN_OPTIONS.vendedores" />
-        <activity android:name=".ADD.add_vendedores" />
-        <activity android:name=".EDIT.edit_vendedores" />
+        <activity android:name="unknown.Sistema_Inventario_Android.EDIT.edit_clientes" android:screenOrientation="locked"/>
+        <activity android:name="unknown.Sistema_Inventario_Android.MAIN_OPTIONS.vendedores" android:screenOrientation="locked"/>
+        <activity android:name="unknown.Sistema_Inventario_Android.ADD.add_vendedores" android:screenOrientation="locked"/>
+        <activity android:name="unknown.Sistema_Inventario_Android.EDIT.edit_vendedores" android:screenOrientation="locked"/>
     </application>
 
 </manifest>

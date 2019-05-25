@@ -41,7 +41,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:text="Vendedor"
+                android:text="Nuevo Vendedor"
                 android:textColor="@android:color/background_light"
                 android:textSize="24sp" />
         </LinearLayout>

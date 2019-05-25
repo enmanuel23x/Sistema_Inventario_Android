@@ -6,11 +6,6 @@
         <item>J</item>
         <item>V</item>
     </string-array>
-    <string-array name="user_levels">
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
     <string name="title_activity_menu">Menu</string>
     <string name="action_settings">Settings</string>
 </resources>
