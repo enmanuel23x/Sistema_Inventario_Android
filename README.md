@@ -1,36 +1,35 @@
 Android APP with SQLITE
-<img src="docs/menu.png" width="280"/>
 # Screenshots
 - Login
 <img src="docs/login.png" width="280"/>
 - Menu
-![](docs/menu.png)
+<img src="docs/menu.png" width="280"/>
 - Inventario
-![](docs/inventario.png)
+<img src="docs/inventario.png" width="280"/>
 - Añadir al inventario
-![](docs/add_inventario.png)
+<img src="docs/add_inventario.png" width="280"/>
 - Editar en el inventario
-![](docs/edit_inventario.png)
+<img src="docs/edit_inventario.png" width="280"/>
 - Ventas
-![](docs/ventas.png)
+<img src="docs/ventas.png" width="280"/>
 - Añadir a las ventas
-![](docs/add_ventas.png)
+<img src="docs/add_ventas.png" width="280"/>
 - Clientes
-![](docs/clientes.png)
+<img src="docs/clientes.png" width="280"/>
 - Añadir a los clientes
-![](docs/add_clientes.png)
+<img src="docs/add_clientes.png" width="280"/>
 - Editar en los clientes
-![](docs/edit_clientes.png)
+<img src="docs/edit_clientes.png" width="280"/>
 - Vendedores
-![](docs/vendedores.png)
+<img src="docs/vendedores.png" width="280"/>
 - Añadir a los vendedores
-![](docs/add_vendedores.png)
+<img src="docs/add_vendedores.png" width="280"/>
 - Editar en los vendedores
-![](docs/edit_vendedores.png)
+<img src="docs/edit_vendedores.png" width="280"/>
 - Usuarios
-![](docs/usuarios.png)
+<img src="docs/usuarios.png" width="280"/>
 - Añadir a los usuarios
-![](docs/add_usuarios.png)
+<img src="docs/add_usuarios.png" width="280"/>
 # Used
 - Java
 - SQLite
