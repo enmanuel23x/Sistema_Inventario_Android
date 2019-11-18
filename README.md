@@ -1,7 +1,9 @@
 Android APP with SQLITE
 # Used
+- Android Studio
 - Java
 - SQLite
+- Web Scrap
 # Screenshots
 <h4>Login</h4>
 <img src="docs/login.png" width="280"/>
